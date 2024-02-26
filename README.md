@@ -58,7 +58,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakvijayvargiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakvijayvargiya&show_icons=true&theme=dark&locale=en" height="150" alt="sarthakvijayvargiya" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sarthakvijayvargiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakvijayvargiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true" height="150" alt="languages graph"  width="47%" />
 </div>
 
