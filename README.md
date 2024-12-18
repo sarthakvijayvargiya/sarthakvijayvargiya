@@ -5,9 +5,7 @@
 <p align="left">I'm a Full-Stack Engineer from India 🇮🇳</p>
 
 ###
-<p align="left">💼 I’m currently working as a Full-Stack Developer in Kotak Mahindra Bank<br>📚  I’m currently learning Next.js and TypeScript<br>💬 Ask me about anything <a href="https://sarthak-vijay.vercel.app/" target="blank">
-    here.
-  </a> <br>😄 Pronouns: He / Him<br>🎲 Fun fact: Ever wonder why 'bug' is a term for a programming error? In 1947, a moth caused a malfunction in the Mark II computer, and the term 'debugging' was born!</p>
+<p align="left">💼 I’m currently working as a Full-Stack Developer in Kotak Mahindra Bank<br>📚  I’m currently learning Next.js and TypeScript<br>💬 Ask me about anything <a href="https://sarthak-vijay.vercel.app/" target="_blank">here.</a> <br>😄 Pronouns: He / Him<br>🎲 Fun fact: Ever wonder why 'bug' is a term for a programming error? In 1947, a moth caused a malfunction in the Mark II computer, and the term 'debugging' was born!</p>
 
 ###
 
